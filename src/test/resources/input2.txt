@@ -1,0 +1,50 @@
+apple at 10p
+20 sales of oranges at 41p each
+Multiply 2p apples
+orange at 10p
+20 sales of oranges at 10p each
+Multiply 2p apples
+Subtract 2p oranges
+Subtract 2p oranges
+Multiply 2p apples
+Add 20p apples
+apple at 10p
+20 sales of oranges at 41p each
+Multiply 2p apples
+orange at 10p
+20 sales of oranges at 10p each
+Multiply 2p apples
+Subtract 2p oranges
+Subtract 2p oranges
+Multiply 2p apples
+Add 20p apples
+apple at 10p
+20 sales of oranges at 41p each
+Multiply 2p apples
+orange at 10p
+20 sales of oranges at 10p each
+Multiply 2p apples
+Subtract 2p oranges
+Subtract 2p oranges
+Multiply 2p apples
+Add 20p apples
+apple at 10p
+20 sales of oranges at 41p each
+Multiply 2p apples
+orange at 10p
+20 sales of oranges at 10p each
+Multiply 2p apples
+Subtract 2p oranges
+Subtract 2p oranges
+Multiply 2p apples
+Add 20p apples
+apple at 1p
+20 sales of oranges at 41p each
+Multiply 2p apples
+orange at 10p
+20 sales of oranges at 10p each
+Multiply 2p apples
+Subtract 2p oranges
+Subtract 2p oranges
+Multiply 2p apples
+Add 20p apples

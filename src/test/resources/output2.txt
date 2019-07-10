@@ -1,0 +1,72 @@
+SaleAfter: 10
+Product: apple  Value: 100 Sales:1
+Product: orange  Value: 866 Sales:41
+SaleAfter: 20
+Product: apple  Value: 920 Sales:2
+Product: orange  Value: 1568 Sales:82
+SaleAfter: 30
+Product: apple  Value: 7500 Sales:3
+Product: orange  Value: 2148 Sales:123
+SaleAfter: 40
+Product: apple  Value: 60160 Sales:4
+Product: orange  Value: 2648 Sales:164
+SaleAfter: 50
+Product: apple  Value: 481388 Sales:5
+Product: orange  Value: 3068 Sales:205
+Message limit reached.
+FinalReport: 50
+-------------------------
+History of Product: apple
+At message#1 Adding one sale to: apple with value: 10
+At message#3 MULTIPLY previous (1) sales to: apple with value: 2
+At message#6 MULTIPLY previous (1) sales to: apple with value: 2
+At message#9 MULTIPLY previous (1) sales to: apple with value: 2
+At message#10 ADD previous (1) sales to: apple with value: 20
+At message#11 Adding one sale to: apple with value: 10
+At message#13 MULTIPLY previous (2) sales to: apple with value: 2
+At message#16 MULTIPLY previous (2) sales to: apple with value: 2
+At message#19 MULTIPLY previous (2) sales to: apple with value: 2
+At message#20 ADD previous (2) sales to: apple with value: 20
+At message#21 Adding one sale to: apple with value: 10
+At message#23 MULTIPLY previous (3) sales to: apple with value: 2
+At message#26 MULTIPLY previous (3) sales to: apple with value: 2
+At message#29 MULTIPLY previous (3) sales to: apple with value: 2
+At message#30 ADD previous (3) sales to: apple with value: 20
+At message#31 Adding one sale to: apple with value: 10
+At message#33 MULTIPLY previous (4) sales to: apple with value: 2
+At message#36 MULTIPLY previous (4) sales to: apple with value: 2
+At message#39 MULTIPLY previous (4) sales to: apple with value: 2
+At message#40 ADD previous (4) sales to: apple with value: 20
+At message#41 Adding one sale to: apple with value: 1
+At message#43 MULTIPLY previous (5) sales to: apple with value: 2
+At message#46 MULTIPLY previous (5) sales to: apple with value: 2
+At message#49 MULTIPLY previous (5) sales to: apple with value: 2
+At message#50 ADD previous (5) sales to: apple with value: 20
+Total For Product: apple  Value: 481388 Sales:5
+History of Product: orange
+At message#2 Adding (20) sales to: orange with value: 41
+At message#4 Adding one sale to: orange with value: 10
+At message#5 Adding (20) sales to: orange with value: 10
+At message#7 SUBTRACT previous (41) sales to: orange with value: 2
+At message#8 SUBTRACT previous (41) sales to: orange with value: 2
+At message#12 Adding (20) sales to: orange with value: 41
+At message#14 Adding one sale to: orange with value: 10
+At message#15 Adding (20) sales to: orange with value: 10
+At message#17 SUBTRACT previous (82) sales to: orange with value: 2
+At message#18 SUBTRACT previous (82) sales to: orange with value: 2
+At message#22 Adding (20) sales to: orange with value: 41
+At message#24 Adding one sale to: orange with value: 10
+At message#25 Adding (20) sales to: orange with value: 10
+At message#27 SUBTRACT previous (123) sales to: orange with value: 2
+At message#28 SUBTRACT previous (123) sales to: orange with value: 2
+At message#32 Adding (20) sales to: orange with value: 41
+At message#34 Adding one sale to: orange with value: 10
+At message#35 Adding (20) sales to: orange with value: 10
+At message#37 SUBTRACT previous (164) sales to: orange with value: 2
+At message#38 SUBTRACT previous (164) sales to: orange with value: 2
+At message#42 Adding (20) sales to: orange with value: 41
+At message#44 Adding one sale to: orange with value: 10
+At message#45 Adding (20) sales to: orange with value: 10
+At message#47 SUBTRACT previous (205) sales to: orange with value: 2
+At message#48 SUBTRACT previous (205) sales to: orange with value: 2
+Total For Product: orange  Value: 3068 Sales:205
